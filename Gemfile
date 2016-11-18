@@ -1,4 +1,7 @@
 # frozen_string_literal: true
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# gem "rails"
+gem 'ruboty'           # Ruby + Bot = Ruboty
+gem 'ruboty-slack_rtm' # Slack real time messaging adapter for Ruboty
+gem 'ruboty-cron'      # Mount cron system to Ruboty to schedule messages on a specific time
+gem 'ruboty-echo'      # Echo given command
