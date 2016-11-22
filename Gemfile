@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 source 'https://rubygems.org'
 
-ruby '2.3.2'
+ruby '2.3.3'
 
 gem 'ruboty'           # Ruby + Bot = Ruboty
 gem 'ruboty-slack_rtm' # Slack real time messaging adapter for Ruboty
