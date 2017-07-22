@@ -9,3 +9,4 @@ gem 'ruboty-cron'      # Mount cron system to Ruboty to schedule messages on a s
 gem 'ruboty-echo'      # Echo given command
 
 gem 'rubocop'
+gem 'annotate_gem'
