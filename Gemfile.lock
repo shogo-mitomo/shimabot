@@ -6,6 +6,8 @@ GEM
       i18n (~> 0.7)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
+    annotate_gem (0.0.11)
+      bundler (~> 1.1)
     ast (2.3.0)
     chrono (0.3.0)
       activesupport
@@ -78,6 +80,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  annotate_gem
   rubocop
   ruboty
   ruboty-cron
